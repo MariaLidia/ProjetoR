@@ -7,3 +7,5 @@ mean(x)
 var(x)
 
 sd(x)
+
+quantile(x) #Ana Herminia esteve aqui
